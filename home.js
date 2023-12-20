@@ -1,1 +1,3 @@
-console.log("kalyani")
+console.log("kalyani");
+
+let  a =10;
